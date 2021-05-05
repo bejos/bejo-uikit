@@ -2195,7 +2195,7 @@ var links = [
             // },
             {
                 label: "Github",
-                href: "https://github.com/mofifinance/",
+                href: "https://github.com/gadexswap/",
             },
             {
                 label: "Docs",
@@ -2203,7 +2203,7 @@ var links = [
             },
             {
                 label: "Blog",
-                href: "https://mofifinance.medium.com/",
+                href: "https://gadexswap.medium.com/",
             },
         ],
     },
@@ -2215,7 +2215,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/mofifinance",
+                href: "https://t.me/GadexCommunity",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2229,7 +2229,7 @@ var socials = [
             
             {
                 label: "Announcements",
-                href: "https://t.me/mofifinanceann",
+                href: "https://t.me/GadexCommunity",
             },
             
         ],
@@ -2237,7 +2237,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/mofifinance",
+        href: "https://twitter.com/gadex19",
     },
     
 ];

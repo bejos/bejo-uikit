@@ -99,15 +99,15 @@ export const links = [
       // },
       {
         label: "Github",
-        href: "https://github.com/mofifinance/",
+        href: "https://github.com/GADexSwap/",
       },
       {
         label: "Docs",
-        href: "https://docs.mofi.finance/",
+        href: "#",
       },
       {
         label: "Blog",
-        href: "https://medium.com/@mofifinance",
+        href: "https://medium.com/@gadexswap",
       },
     ],
   },
@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/mofifinance",
+        href: "https://t.me/GadexCommunity",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -144,7 +144,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/mofifinance",
+    href: "https://twitter.com/GADex19",
   },
 ];
 
