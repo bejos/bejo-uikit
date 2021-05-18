@@ -2195,7 +2195,7 @@ var links = [
             // },
             {
                 label: "Github",
-                href: "https://github.com/gadexswap/",
+                href: "https://github.com/jinchuriki/",
             },
             {
                 label: "Docs",
@@ -2203,7 +2203,7 @@ var links = [
             },
             {
                 label: "Blog",
-                href: "https://gadexswap.medium.com/",
+                href: "https://jinchuriki.medium.com/",
             },
         ],
     },
@@ -2215,7 +2215,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/GadexCommunity",
+                href: "https://t.me/Bijuoffcial",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2229,7 +2229,7 @@ var socials = [
             
             {
                 label: "Announcements",
-                href: "https://t.me/GadexCommunity",
+                href: "https://t.me/Bijuaanounce",
             },
             
         ],
@@ -2237,7 +2237,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/gadex19",
+        href: "https://twitter.com/biju_jinchuriki",
     },
     
 ];
