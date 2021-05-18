@@ -99,7 +99,7 @@ export const links = [
       // },
       {
         label: "Github",
-        href: "https://github.com/GADexSwap/",
+        href: "https://github.com/jinchuriki/",
       },
       {
         label: "Docs",
@@ -107,7 +107,7 @@ export const links = [
       },
       {
         label: "Blog",
-        href: "https://medium.com/@gadexswap",
+        href: "https://medium.com/@jinchuriki",
       },
     ],
   },
@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/GadexCommunity",
+        href: "https://t.me/Bijuoffcial",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -137,14 +137,14 @@ export const socials = [
       // },
       {
         label: "Announcements",
-        href: "https://t.me/mofifinanceann",
+        href: "https://t.me/Bijuaanounce",
       },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/GADex19",
+    href: "https://twitter.com/biju_jinchuriki",
   },
 ];
 
