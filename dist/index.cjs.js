@@ -2208,7 +2208,7 @@ var links = [
             // },
             {
                 label: "Github",
-                href: "https://github.com/jinchuriki/",
+                href: "https://github.com/cookiesswap/",
             },
             {
                 label: "Docs",
@@ -2216,7 +2216,7 @@ var links = [
             },
             {
                 label: "Blog",
-                href: "https://jinchuriki.medium.com/",
+                href: "https://cookiesswap.medium.com/",
             },
         ],
     },
@@ -2228,21 +2228,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/Bijuoffcial",
-            },
-            // {
-            //   label: "Bahasa Indonesia",
-            //   href: "https://t.me/PancakeSwapIndonesia",
-            // },
-           
-            // {
-            //   label: "Tiếng Việt",
-            //   href: "https://t.me/PancakeSwapVN",
-            // },
-            
-            {
-                label: "Announcements",
-                href: "https://t.me/Bijuaanounce",
+                href: "https://t.me/Cookiesswap",
             },
             
         ],
@@ -2250,7 +2236,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/biju_jinchuriki",
+        href: "https://twitter.com/cookiesswap",
     },
     
 ];

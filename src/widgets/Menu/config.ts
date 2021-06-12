@@ -99,7 +99,7 @@ export const links = [
       // },
       {
         label: "Github",
-        href: "https://github.com/jinchuriki/",
+        href: "https://github.com/cookiesswap/",
       },
       {
         label: "Docs",
@@ -107,7 +107,7 @@ export const links = [
       },
       {
         label: "Blog",
-        href: "https://medium.com/@jinchuriki",
+        href: "https://medium.com/@cookiesswap",
       },
     ],
   },
@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/Bijuoffcial",
+        href: "https://t.me/Cookiesswap",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -135,16 +135,12 @@ export const socials = [
       //   label: "Português",
       //   href: "https://t.me/PancakeSwapPortuguese",
       // },
-      {
-        label: "Announcements",
-        href: "https://t.me/Bijuaanounce",
-      },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/biju_jinchuriki",
+    href: "https://twitter.com/Cookiesswap",
   },
 ];
 
